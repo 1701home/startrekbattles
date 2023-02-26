@@ -28,7 +28,7 @@
 | [Round 16](https://1701home.com/@battles/109905354240926468) | [Round 17](https://1701home.com/@battles/109911353759842522) | [Round 18](https://1701home.com/@battles/109917320954370573) |
 | [Round 19](https://1701home.com/@battles/109925835826600430) | [Round 20](https://1701home.com/@battles/109931828454623469) |                              ...                             |
 
-##### Bracket:&#x20;
+##### 2023 Epsiode Battles Bracket:&#x20;
 
 <https://brackethq.com/b/o5cab/>
 
