@@ -8,7 +8,7 @@ Winner: "Best of Both Worlds"
 | :-----------------: | :-------------------------: | :------------------------------------------------------: |
 | The Original Series | City on the Edge of Forever |   [Link](https://1701home.com/@duke/109566315075576014)  |
 | The Animated Series |      The Slaver Weapon      |   [Link](https://1701home.com/@duke/109605976191392316)  |
-| The Next Generation |   The Best of Both Worlds   |                       *Unavailable*                      |
+| The Next Generation |   Best of Both Worlds   |                       *Unavailable*                      |
 |   Deep Space Nine   |     Far Beyond the Stars    | [Link](https://1701home.com/@battles/109634413095993469) |
 |       Voyager       |         Year of Hell        | [Link](https://1701home.com/@battles/109651391352538074) |
 |      Enterprise     |         Carbon Creek        | [Link](https://1701home.com/@battles/109668490457839946) |
