@@ -1,8 +1,10 @@
-
-# Star Trek Battles Timeline
 ### **2023 Episode Battles**
 
-|       Series        |           Episode           |                        Battle Link                       |
+Winner: "Best of Both Worlds"
+
+![](https://f004.backblazeb2.com/file/Weblog-Assets/93a19ad2b75eb540.jpg)
+
+|        Series       |           Episode           |                        Battle Link                       |
 | :-----------------: | :-------------------------: | :------------------------------------------------------: |
 | The Original Series | City on the Edge of Forever |   [Link](https://1701home.com/@duke/109566315075576014)  |
 | The Animated Series |      The Slaver Weapon      |   [Link](https://1701home.com/@duke/109605976191392316)  |
@@ -26,21 +28,15 @@
 | [Round 10](https://1701home.com/@battles/109863744847598402) | [Round 11](https://1701home.com/@battles/109872248172165836) | [Round 12](https://1701home.com/@battles/109880859937248073) |
 | [Round 13](https://1701home.com/@battles/109887347819389415) | [Round 14](https://1701home.com/@battles/109893203352849793) | [Round 15](https://1701home.com/@battles/109899593004016825) |
 | [Round 16](https://1701home.com/@battles/109905354240926468) | [Round 17](https://1701home.com/@battles/109911353759842522) | [Round 18](https://1701home.com/@battles/109917320954370573) |
-| [Round 19](https://1701home.com/@battles/109925835826600430) | [Round 20](https://1701home.com/@battles/109931828454623469) |                              ...                             |
+| [Round 19](https://1701home.com/@battles/109925835826600430) | [Round 20](https://1701home.com/@battles/109931828454623469) | [Round 21](https://1701home.com/@battles/109939331513086323) |
+| [Round 22](https://1701home.com/@battles/109945472047050548) |                                                              |                                                              |
 
-##### 2023 Epsiode Battles Bracket:&#x20;
+##### Bracket:&#x20;
 
 <https://brackethq.com/b/o5cab/>
-
-
 
 #### Support future Star Trek Battles at the link below,
 
 <https://ko-fi.com/1701home>
 
-
-
-
-
 ###
-
